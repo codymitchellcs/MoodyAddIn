@@ -1,0 +1,17 @@
+C:\Users\terri\source\repos\MoodysAddIn\MoodysAddIn\obj\Debug\MoodysAddIn.csproj.AssemblyReference.cache
+C:\Users\terri\source\repos\MoodysAddIn\MoodysAddIn\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\terri\source\repos\MoodysAddIn\MoodysAddIn\obj\Debug\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\terri\source\repos\MoodysAddIn\MoodysAddIn\obj\Debug\MoodysAddIn.csproj.ResolveComReference.cache
+C:\Users\terri\source\repos\MoodysAddIn\MoodysAddIn\obj\Debug\MoodysAddIn.Properties.Resources.resources
+C:\Users\terri\source\repos\MoodysAddIn\MoodysAddIn\obj\Debug\MoodysAddIn.csproj.GenerateResource.cache
+C:\Users\terri\source\repos\MoodysAddIn\MoodysAddIn\obj\Debug\MoodysAddIn.csproj.CoreCompileInputs.cache
+C:\Users\terri\source\repos\MoodysAddIn\MoodysAddIn\obj\Debug\MoodysAddIn.CustomRibbon.resources
+C:\Users\terri\source\repos\MoodysAddIn\MoodysAddIn\bin\Debug\MoodysAddIn.dll
+C:\Users\terri\source\repos\MoodysAddIn\MoodysAddIn\bin\Debug\MoodysAddIn.pdb
+C:\Users\terri\source\repos\MoodysAddIn\MoodysAddIn\bin\Debug\MoodysAddIn.dll.manifest
+C:\Users\terri\source\repos\MoodysAddIn\MoodysAddIn\bin\Debug\MoodysAddIn.vsto
+C:\Users\terri\source\repos\MoodysAddIn\MoodysAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\terri\source\repos\MoodysAddIn\MoodysAddIn\obj\Debug\MoodysAd.E026B609.Up2Date
+C:\Users\terri\source\repos\MoodysAddIn\MoodysAddIn\obj\Debug\MoodysAddIn.dll
+C:\Users\terri\source\repos\MoodysAddIn\MoodysAddIn\obj\Debug\MoodysAddIn.pdb
+C:\Users\terri\source\repos\MoodysAddIn\MoodysAddIn\obj\Debug\MoodysAddIn.UserControls.EmailLoginForm.resources
